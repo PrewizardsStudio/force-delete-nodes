@@ -1,0 +1,1 @@
+You can easily clean your maya scene with this simple maya script to force delete all selected and children nodes. It could delete maya references too. No more question and confirmation, just delete. FORCE!!!
